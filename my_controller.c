@@ -1,8 +1,8 @@
 /*
  * File:          PID_Control.c
  * Date:
- * Description:
- * Author:
+ * Description: Code used in Webots to control a self-driving robot that can pick up pickages and move them to relevant station
+ * Author: Mnongeni Sithole
  * Modifications:
  */
 
